@@ -1,0 +1,1 @@
+KERNEL=="ttyACM*", KERNELS=="1-1.2:1.0", SYMLINK+="gx5_navbox_imu", MODE="0660"
